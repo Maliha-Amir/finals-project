@@ -1,0 +1,31 @@
+
+#log{
+    height: 500px;
+    width: 700px;
+    border: 2px soli black;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+#username{
+    
+    width: 400px;
+border-radius: 10px;
+padding-bottom: 30px;
+}
+#password{
+    padding-bottom: 30px;
+        height:20px ;
+        width: 400px;
+    border-radius: 10px;
+}
+#loginButton{
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 40px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: grey;
+}
+#loginMessage{
+    color: green;
+}
